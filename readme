@@ -1,2 +1,4 @@
 UVsoap is a  box containing UV-C lights and reflective paper on the inside, which helps to assure a good sanitation to any product. 
 To assure the user-friendly experience, this box has a good lock and starts functioning with a push button that starts a timer for the sanitation
+The algorithm and the functionning is so simple. We used Arduino to make the whole system, the code opens on Arduino IDE with all the components and the circuit in real simulation.
+Due to shortage of resources we realised an online simulation which lacks some functionning capabilities since its not real.
